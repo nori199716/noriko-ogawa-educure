@@ -4,9 +4,9 @@
  */
 public class Main3 {
 
-    /**
-     * このプログラムは
-     * コンソールにHello,World!と表示します。
+    /*
+      このプログラムは
+      コンソールにHello,World!と表示します。
     */
    public static void main(String[] args){
 
@@ -14,3 +14,4 @@ public class Main3 {
     System.out.println("Hello, World!");
    }
 }
+
