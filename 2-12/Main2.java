@@ -7,6 +7,7 @@ public class Main2 {
 
                 System.out.println(dan +"×" + kakezan + "=" + (dan * kakezan));
             }
+            System.out.println();
         }
 
         
