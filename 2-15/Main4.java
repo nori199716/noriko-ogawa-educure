@@ -52,6 +52,7 @@ public class Main4 {
             }
             System.out.println();
         }
+        sc.close();
      }
         
 
